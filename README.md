@@ -10,16 +10,12 @@
     <img style="height:10rem;" src="https://github-readme-streak-stats.herokuapp.com/?user=Akk0-Kagari&amp;theme=radical&amp;show_icons=true&amp;border=e4e2e2">
 </p>
 <div align="center">
-<!--     <picture align="center"> -->
-<!--       <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Akk0-Kagari/Akk0-Kagari/blob/output/github-contribution-grid-snake.svg">
+    <picture align="center"> -->
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Akk0-Kagari/Akk0-Kagari/blob/output/github-contribution-grid-snake.svg">
       <source media="(prefers-color-scheme: light)" srcset="https://github.com/Akk0-Kagari/Akk0-Kagari/blob/output/github-contribution-grid-snake.svg">
-      <img alt="github contribution grid snake animation" src="https://github.com/Akk0-Kagari/Akk0-Kagari/blob/output/github-contribution-grid-snake.svg"> -->
-<!--     </picture> -->
-  <picture align="center">
-    <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-    <img alt="github-snake" src="github-snake.svg" />
-  </picture>
+      <img alt="github contribution grid snake animation" src="https://github.com/Akk0-Kagari/Akk0-Kagari/blob/output/github-contribution-grid-snake.svg">
+    </picture>
+  
 </div>
 <p align="center"> 
   </p><div align="center">Visitor count</div>
