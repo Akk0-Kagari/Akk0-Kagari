@@ -1,7 +1,5 @@
   <h3 id="hi-there">Hi there 👋</h3>
-<div align="center">
-    <img src="https://raw.githubusercontent.com/Niefee/niefee/master/assets/fly.webp" height="120px">
-</div>
+
 <br>
 <ul>
 <li>🌱 I am akk0, welcome to my GitHub home page</li>
