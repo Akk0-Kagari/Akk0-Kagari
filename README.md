@@ -30,5 +30,5 @@
   </div> 
 <p></p>
 <hr>
-<p>Credit: <a href="https://github.com/Akk0-Kagari">Akk0-Kagari</a>
-Last Edited on 09/04/2025</p> 
+<!-- <p>Credit: <a href="https://github.com/Akk0-Kagari">Akk0-Kagari</a> -->
+<!-- Last Edited on 09/04/2025</p>  -->
